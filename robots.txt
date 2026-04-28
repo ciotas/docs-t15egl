@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-8xk8nr.browsecraft.com/sitemap.xml
